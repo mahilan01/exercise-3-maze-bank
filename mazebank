@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MazeBank</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <header>Welcome to MazeBank
+    </header>
+
+    <section>
+        <h2>Our Services</h2>
+        <img src="maze-bank.png" height="600px" width="600px" alt="What you can do at MazeBank" />
+        <h3>options</h3>
+        <p>
+            From withdrawals to deposits, decide what is done with your money with the full support of the MazeBank team (unless its money laundering)
+        </p>
+        <h3>Our Celebrity Clients</h3>
+        <p>
+            Over the years, MazeBank has had many star clients such as Franklin Clinton the agency executive and Trevor Phillips, drug kingpin.
+        </p>
+        <h2>Our Offices</h2>
+        <img src="maze-tower.jpg" alt="Our Offices" />
+        <p>
+            Come and book a tour at our executive offices in downtown Los Santos, where you can meet some of our excellent staff and take a peek into our vaults. Tours start at $8000.
+        </p>
+        <h2>Our Policies</h2>
+        <img src="gta-image.jpg" alt="We do not support or align ourselves with any illegal activity or criminal organisations until a substantial premium is paid. Incentives include blurred legal lines and federal support" />
+        <p>
+            More information about us and our upcoming events can be found on social media. Follow us on
+            <a href="https://www.facebook.com/" target="_blank">facebook</a>
+            to find out more
+        </p>
+    </section>
+    <footer><p>&copy; Welcome to MazeBank</p></footer>
+</body>
+</html>
